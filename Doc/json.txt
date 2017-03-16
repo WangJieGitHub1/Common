@@ -1,0 +1,20 @@
+ ‰»Î£∫
+{
+           "SealBin": "C:\\Users\\wangjie\\Desktop\\100000225.bmp",
+           "SealColor": 0,
+           "SealShape": 0,
+          "LitterRect":"114,312,325,374",
+            "LitterInfo":"1234567890123"
+}
+
+ ‰≥ˆ£∫
+{
+    "Message": null,
+    "ResultCode": 0,
+    "Seals": [	
+        {
+           "LitterRect":"0,1,0,65",
+             "LitterInfo":"1234567890123"
+        }
+    ]
+}
